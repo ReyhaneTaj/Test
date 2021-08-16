@@ -1,1 +1,2 @@
 print("Mahroo")
+print('Mah')
